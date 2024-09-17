@@ -38,9 +38,11 @@
       "discord"
       "hazel"
       "hookmark"
+      "karabiner-elements"
       "keyboard-maestro"
       "kiibohd-configurator"
       "mullvadvpn"
+      "microsoft-remote-desktop"
       "raycast"
       "tor-browser"
       "zed"
@@ -48,6 +50,7 @@
     masApps = {
       "OneDrive" = 823766827;
       "Tailscale" = 1475387142;
+      "Neptunes" = 1006739057;
     };
   };
 }

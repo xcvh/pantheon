@@ -1,4 +1,5 @@
 # pantheon
+
 My declarative setup of my computing life.
 
 > [!IMPORTANT]
@@ -13,7 +14,7 @@ On macOS, this script will install `nix` using the
 [Determinate Systems Nix installer](https://zero-to-nix.com/start/install) and
 prompt to install my configuration.
 
-> [!IMPORTANT] 
+> [!IMPORTANT]
 > You'll need to run this script as sudo or have sudo permissions.
 
 ```bash

@@ -20,10 +20,7 @@
     "devshell": {
       "inputs": {
         "flake-utils": "flake-utils_2",
-        "nixpkgs": [
-          "nixarr",
-          "nixpkgs"
-        ]
+        "nixpkgs": ["nixarr", "nixpkgs"]
       },
       "locked": {
         "lastModified": 1717408969,
@@ -41,10 +38,7 @@
     },
     "flake-parts": {
       "inputs": {
-        "nixpkgs-lib": [
-          "nixarr",
-          "nixpkgs"
-        ]
+        "nixpkgs-lib": ["nixarr", "nixpkgs"]
       },
       "locked": {
         "lastModified": 1717285511,
@@ -62,11 +56,7 @@
     },
     "flake-parts_2": {
       "inputs": {
-        "nixpkgs-lib": [
-          "nixarr",
-          "vpnconfinement",
-          "nixpkgs"
-        ]
+        "nixpkgs-lib": ["nixarr", "vpnconfinement", "nixpkgs"]
       },
       "locked": {
         "lastModified": 1717285511,
@@ -135,9 +125,7 @@
     },
     "home-manager": {
       "inputs": {
-        "nixpkgs": [
-          "nixpkgs"
-        ]
+        "nixpkgs": ["nixpkgs"]
       },
       "locked": {
         "lastModified": 1726440980,
@@ -218,9 +206,7 @@
     },
     "nix-darwin": {
       "inputs": {
-        "nixpkgs": [
-          "nixpkgs"
-        ]
+        "nixpkgs": ["nixpkgs"]
       },
       "locked": {
         "lastModified": 1726188813,
@@ -259,9 +245,7 @@
         "brew-src": "brew-src",
         "flake-utils": "flake-utils",
         "nix-darwin": "nix-darwin_2",
-        "nixpkgs": [
-          "nixpkgs"
-        ]
+        "nixpkgs": ["nixpkgs"]
       },
       "locked": {
         "lastModified": 1719720211,
@@ -282,9 +266,7 @@
         "devshell": "devshell",
         "flake-parts": "flake-parts",
         "flake-root": "flake-root",
-        "nixpkgs": [
-          "nixpkgs"
-        ],
+        "nixpkgs": ["nixpkgs"],
         "treefmt-nix": "treefmt-nix",
         "vpnconfinement": "vpnconfinement"
       },
@@ -363,9 +345,7 @@
     },
     "sops-nix": {
       "inputs": {
-        "nixpkgs": [
-          "nixpkgs"
-        ],
+        "nixpkgs": ["nixpkgs"],
         "nixpkgs-stable": "nixpkgs-stable"
       },
       "locked": {
@@ -414,10 +394,7 @@
     },
     "treefmt-nix": {
       "inputs": {
-        "nixpkgs": [
-          "nixarr",
-          "nixpkgs"
-        ]
+        "nixpkgs": ["nixarr", "nixpkgs"]
       },
       "locked": {
         "lastModified": 1717850719,
@@ -436,10 +413,7 @@
     "vpnconfinement": {
       "inputs": {
         "flake-parts": "flake-parts_2",
-        "nixpkgs": [
-          "nixarr",
-          "nixpkgs"
-        ]
+        "nixpkgs": ["nixarr", "nixpkgs"]
       },
       "locked": {
         "lastModified": 1718094603,
