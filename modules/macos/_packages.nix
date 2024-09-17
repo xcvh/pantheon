@@ -34,8 +34,10 @@
     ];
     taps = builtins.attrNames config.nix-homebrew.taps;
     casks = [
+      "affinity-photo"
       "devonthink"
       "discord"
+      "easyfind"
       "hazel"
       "hookmark"
       "karabiner-elements"
