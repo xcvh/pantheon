@@ -43,7 +43,9 @@
       "kiibohd-configurator"
       "mullvadvpn"
       "microsoft-remote-desktop"
+      "popclip"
       "raycast"
+      "steam"
       "tor-browser"
       "zed"
     ];
