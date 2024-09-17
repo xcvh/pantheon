@@ -43,8 +43,10 @@
 
       dock = {
         autohide = true;
+        autohide-delay = 0.12;
+        autohide-time-modifier = 0.5;
         mru-spaces = false;
-        tilesize = 96;
+        tilesize = 32;
         wvous-br-corner = 4;
         wvous-bl-corner = 11;
         wvous-tr-corner = 5;
@@ -52,7 +54,8 @@
 
       finder = {
         AppleShowAllExtensions = false;
-        FXPreferredViewStyle = "clmv";
+        FXPreferredViewStyle = "Nlsv";
+        ShowPathbar = true;
       };
 
       menuExtraClock = {

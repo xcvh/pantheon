@@ -41,6 +41,7 @@
       "keyboard-maestro"
       "kiibohd-configurator"
       "mullvadvpn"
+      "raycast"
       "tor-browser"
       "zed"
     ];
