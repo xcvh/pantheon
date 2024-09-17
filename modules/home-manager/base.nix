@@ -21,7 +21,6 @@
   };
 
   programs = {
-     = {
       enable = true;
       ignores = [
         ".DS_Store"            # Finder metadata
