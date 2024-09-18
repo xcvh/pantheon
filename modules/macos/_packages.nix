@@ -45,6 +45,8 @@
       "kiibohd-configurator"
       "mullvadvpn"
       "microsoft-remote-desktop"
+      "microsoft-outlook"
+      "microsoft-teams"
       "popclip"
       "raycast"
       "steam"
