@@ -45,6 +45,7 @@
         autohide = true;
         autohide-delay = 0.12;
         autohide-time-modifier = 0.5;
+        show-recents = false;
         mru-spaces = false;
         tilesize = 32;
         wvous-br-corner = 4;

@@ -45,18 +45,22 @@
       "kiibohd-configurator"
       "mullvadvpn"
       "microsoft-remote-desktop"
-      "microsoft-outlook"
+      # "microsoft-outlook"
       "microsoft-teams"
       "popclip"
       "raycast"
       "steam"
       "tor-browser"
+      "whatsapp"
       "zed"
     ];
     masApps = {
+      "Drafts" = 1435957248;
       "OneDrive" = 823766827;
       "Tailscale" = 1475387142;
+      "Things 3" = 904280696;
       "Neptunes" = 1006739057;
+      "Outlook" = 985367838;
     };
   };
 }
