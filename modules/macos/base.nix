@@ -51,6 +51,7 @@
         wvous-br-corner = 4;
         wvous-bl-corner = 11;
         wvous-tr-corner = 5;
+        wvous-tl-corner = 2;
       };
 
       finder = {
