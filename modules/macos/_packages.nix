@@ -51,6 +51,7 @@
       "popclip"
       "raycast"
       "steam"
+      "syncthing" # this should probably live in home-manager
       "tor-browser"
       "whatsapp"
       "zed"
