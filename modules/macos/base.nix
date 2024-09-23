@@ -31,6 +31,7 @@
   services = {
     nix-daemon.enable = true;
     tailscale.enable = true;
+    syncthing.enable = true;
   };
 
   users.users.xcvh.home = "/Users/xcvh";
