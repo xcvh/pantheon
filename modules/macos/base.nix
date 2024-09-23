@@ -79,9 +79,10 @@
     dock = {
       enable = true;
       entries = [
+        {path = "/Applications/DEVONthink 3.app";}
+        {path = "/Applications/Drafts.app";}
         {path = "/Applications/Safari.app";}
         {path = "/System/Applications/Messages.app";}
-        {path = "/System/Applications/System Settings.app";}
       ];
     };
   };

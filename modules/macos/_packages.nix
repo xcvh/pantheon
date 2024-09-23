@@ -36,6 +36,7 @@
     casks = [
       "affinity-photo"
       "devonthink"
+      "deepl"
       "discord"
       "easyfind"
       "hazel"
