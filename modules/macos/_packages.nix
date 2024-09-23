@@ -59,6 +59,7 @@
       "Drafts" = 1435957248;
       "OneDrive" = 823766827;
       "Tailscale" = 1475387142;
+      "TextSniper" = 1528890965;
       "Things 3" = 904280696;
       "Neptunes" = 1006739057;
       "Outlook" = 985367838;
