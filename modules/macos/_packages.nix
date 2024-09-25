@@ -35,6 +35,7 @@
     taps = builtins.attrNames config.nix-homebrew.taps;
     casks = [
       "affinity-photo"
+      "cold-turkey-blocker"
       "devonthink"
       "deepl"
       "discord"
