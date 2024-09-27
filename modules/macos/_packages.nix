@@ -51,6 +51,7 @@
       "microsoft-teams"
       "popclip"
       "raycast"
+      "receipts"
       "steam"
       "syncthing" # this should probably live in home-manager
       "tor-browser"
@@ -59,6 +60,7 @@
     ];
     masApps = {
       "Drafts" = 1435957248;
+      "Due" = 524373870;
       "OneDrive" = 823766827;
       "Tailscale" = 1475387142;
       "TextSniper" = 1528890965;
