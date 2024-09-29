@@ -36,6 +36,7 @@
     casks = [
       "affinity-photo"
       "cold-turkey-blocker"
+      "downie"
       "devonthink"
       "deepl"
       "discord"
@@ -49,6 +50,7 @@
       "microsoft-remote-desktop"
       # "microsoft-outlook"
       "microsoft-teams"
+      "google-chrome"
       "popclip"
       "raycast"
       "receipts"
@@ -66,6 +68,7 @@
       "TextSniper" = 1528890965;
       "Things 3" = 904280696;
       "Neptunes" = 1006739057;
+      "MultiMarkdown Composer 4" = 1275176220;
       "Outlook" = 985367838;
     };
   };
