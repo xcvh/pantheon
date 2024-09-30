@@ -8,6 +8,7 @@
       [
         bat
         pandoc
+        exiftool
         poppler_utils
         qrencode
         tree
