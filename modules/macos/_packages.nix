@@ -36,6 +36,7 @@
     casks = [
       "affinity-photo"
       "cold-turkey-blocker"
+      "clickup"
       "downie"
       "devonthink"
       "deepl"
@@ -61,6 +62,7 @@
       "zed"
     ];
     masApps = {
+      "Amphetamine" = 937984704;
       "Drafts" = 1435957248;
       "Due" = 524373870;
       "OneDrive" = 823766827;
