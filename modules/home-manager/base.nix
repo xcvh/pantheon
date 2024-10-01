@@ -71,6 +71,11 @@
       enableAliases = true;
     };
     fastfetch.enable = true;
+    zoxide = {
+      enable = true;
+      enableZshIntegration = true;
+      options = ["--cmd cd"];
+    };
   };
 
   # Nicely reload system units when changing configs
