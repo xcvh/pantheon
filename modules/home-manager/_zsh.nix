@@ -6,7 +6,8 @@
     syntaxHighlighting.enable = true;
     shellAliases = {
       ".." = "cd ..";
-      cat = "bat --style=plain --theme=base16 --paging=never ";
+      q = "clear";
+      cat = "bat";
     };
     # inspo: https://discourse.nixos.org/t/brew-not-on-path-on-m1-mac/26770/4
     initExtra = ''
