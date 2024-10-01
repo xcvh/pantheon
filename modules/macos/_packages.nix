@@ -56,6 +56,7 @@
       "gitbutler"
       "github"
       "popclip"
+      "phpstorm"
       "raycast"
       "receipts"
       "steam"
