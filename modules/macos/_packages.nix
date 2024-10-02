@@ -75,6 +75,7 @@
       "Things 3" = 904280696;
       "Neptunes" = 1006739057;
       "MultiMarkdown Composer 4" = 1275176220;
+      "In Your Face" = 1476964367;
       "Outlook" = 985367838;
     };
   };
