@@ -42,6 +42,7 @@
       "deepl"
       "discord"
       "easyfind"
+      "fujitsu-scansnap-home"
       "hazel"
       "herd"
       "hookmark"
