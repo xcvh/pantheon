@@ -8,6 +8,8 @@
       ".." = "cd ..";
       q = "clear";
       cat = "bat";
+      ms = "mas search";
+      bs = "brew search";
     };
     # inspo: https://discourse.nixos.org/t/brew-not-on-path-on-m1-mac/26770/4
     initExtra = ''
