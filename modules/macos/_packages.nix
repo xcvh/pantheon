@@ -71,7 +71,7 @@
       "Drafts" = 1435957248;
       "Due" = 524373870;
       "OneDrive" = 823766827;
-      "Stando" = 2134630863;
+      # "Stando" = 2134630863; Gives Error: Download request failed: The server gave an error during download: 500 Internal Server Error.
       "Tailscale" = 1475387142;
       "TextSniper" = 1528890965;
       "Things 3" = 904280696;
