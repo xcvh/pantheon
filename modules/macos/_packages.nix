@@ -42,6 +42,7 @@
       "deepl"
       "discord"
       "easyfind"
+      "forklift"
       "fujitsu-scansnap-home"
       "hazel"
       "herd"
