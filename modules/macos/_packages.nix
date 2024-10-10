@@ -56,6 +56,8 @@
       "microsoft-remote-desktop"
       # "microsoft-outlook"
       "microsoft-teams"
+      "ollama"
+      "ollamac"
       "gitbutler"
       "github"
       "popclip"
