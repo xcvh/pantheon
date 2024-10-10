@@ -17,6 +17,7 @@
         alejandra
         just
         nixd
+        perlnavigator
         nixos-rebuild # needed for macOS
         sops
       ]
