@@ -82,7 +82,7 @@
       entries = [
         {path = "/Applications/DEVONthink 3.app";}
         {path = "/Applications/Drafts.app";}
-        {path = "/Applications/Safari.app";}
+        {path = "/Applications/Arc.app";}
         {path = "/System/Applications/Messages.app";}
       ];
     };
