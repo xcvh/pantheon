@@ -72,6 +72,7 @@
       "Amphetamine" = 937984704;
       "Drafts" = 1435957248;
       "Due" = 524373870;
+      "Front and Center" = 1493996622;
       "OneDrive" = 823766827;
       # "Gestimer 2" = 2142808944;
       # "Stando" = 2134630863;
