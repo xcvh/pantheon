@@ -66,6 +66,7 @@
       "syncthing" # this should probably live in home-manager
       "tor-browser"
       "whatsapp"
+      "vlc"
       "zed"
     ];
     masApps = {
@@ -84,6 +85,7 @@
       "MultiMarkdown Composer 4" = 1275176220;
       "In Your Face" = 1476964367;
       "Outlook" = 985367838;
+      "Whisper Transcription" = 1668083311;
     };
   };
 }
