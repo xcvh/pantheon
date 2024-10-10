@@ -7,6 +7,7 @@
     packages = with pkgs;
       [
         bat
+        ffmpeg
         pandoc
         exiftool
         poppler_utils
