@@ -15,6 +15,7 @@
         yt-dlp
         alejandra
         just
+        nixd
         nixos-rebuild # needed for macOS
         sops
       ]
