@@ -7,6 +7,7 @@
     packages = with pkgs;
       [
         bat
+        ffmpeg
         pandoc
         exiftool
         poppler_utils
@@ -15,6 +16,8 @@
         yt-dlp
         alejandra
         just
+        nixd
+        perlnavigator
         nixos-rebuild # needed for macOS
         sops
       ]

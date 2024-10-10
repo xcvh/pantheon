@@ -34,6 +34,7 @@
     ];
     taps = builtins.attrNames config.nix-homebrew.taps;
     casks = [
+      "arc"
       "affinity-photo"
       "cold-turkey-blocker"
       "clickup"
@@ -42,6 +43,9 @@
       "deepl"
       "discord"
       "easyfind"
+      "forklift"
+      "fujitsu-scansnap-home"
+      "handbrake"
       "hazel"
       "herd"
       "hookmark"
@@ -52,7 +56,6 @@
       "microsoft-remote-desktop"
       # "microsoft-outlook"
       "microsoft-teams"
-      "google-chrome"
       "gitbutler"
       "github"
       "popclip"
@@ -69,12 +72,17 @@
       "Amphetamine" = 937984704;
       "Drafts" = 1435957248;
       "Due" = 524373870;
+      "Front and Center" = 1493996622;
       "OneDrive" = 823766827;
+      # "Gestimer 2" = 2142808944;
+      # "Stando" = 2134630863;
+      # These Give the Error: Download request failed: The server gave an error during download: 500 Internal Server Error.
       "Tailscale" = 1475387142;
       "TextSniper" = 1528890965;
       "Things 3" = 904280696;
       "Neptunes" = 1006739057;
       "MultiMarkdown Composer 4" = 1275176220;
+      "In Your Face" = 1476964367;
       "Outlook" = 985367838;
     };
   };
