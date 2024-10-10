@@ -44,6 +44,7 @@
       "easyfind"
       "forklift"
       "fujitsu-scansnap-home"
+      "handbrake"
       "hazel"
       "herd"
       "hookmark"
