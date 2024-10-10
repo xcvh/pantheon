@@ -34,6 +34,7 @@
     ];
     taps = builtins.attrNames config.nix-homebrew.taps;
     casks = [
+      "arc"
       "affinity-photo"
       "cold-turkey-blocker"
       "clickup"
@@ -55,7 +56,6 @@
       "microsoft-remote-desktop"
       # "microsoft-outlook"
       "microsoft-teams"
-      "google-chrome"
       "gitbutler"
       "github"
       "popclip"
