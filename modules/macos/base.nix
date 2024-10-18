@@ -81,6 +81,7 @@
       enable = true;
       entries = [
         {path = "/System/Applications/Calendar.app";}
+        {path = "/Applications/Tana.app";}
         {path = "/Applications/DEVONthink 3.app";}
         {path = "/Applications/Drafts.app";}
         {path = "/Applications/Arc.app";}
