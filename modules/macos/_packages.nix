@@ -38,6 +38,7 @@
       "affinity-photo"
       "cold-turkey-blocker"
       "clickup"
+      "chatgpt"
       "downie"
       "devonthink"
       "deepl"
