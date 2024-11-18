@@ -35,9 +35,11 @@
     taps = builtins.attrNames config.nix-homebrew.taps;
     casks = [
       "arc"
+      "anki"
       "affinity-photo"
       "cold-turkey-blocker"
       "clickup"
+      "chatgpt"
       "downie"
       "devonthink"
       "deepl"
@@ -49,6 +51,7 @@
       "hazel"
       "herd"
       "hookmark"
+      "keka"
       "karabiner-elements"
       "keyboard-maestro"
       "kiibohd-configurator"
@@ -56,6 +59,7 @@
       "microsoft-remote-desktop"
       # "microsoft-outlook"
       "microsoft-teams"
+      "numi"
       "ollama"
       "ollamac"
       "gitbutler"
@@ -84,6 +88,7 @@
       "TextSniper" = 1528890965;
       "Things 3" = 904280696;
       "Neptunes" = 1006739057;
+      "Slack" = 803453959;
       "MultiMarkdown Composer 4" = 1275176220;
       "In Your Face" = 1476964367;
       "Outlook" = 985367838;
