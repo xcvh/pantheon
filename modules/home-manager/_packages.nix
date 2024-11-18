@@ -15,6 +15,7 @@
         tree
         yt-dlp
         alejandra
+        imagemagick
         just
         nixd
         perlnavigator

@@ -35,6 +35,7 @@
     taps = builtins.attrNames config.nix-homebrew.taps;
     casks = [
       "arc"
+      "anki"
       "affinity-photo"
       "cold-turkey-blocker"
       "clickup"
@@ -50,6 +51,7 @@
       "hazel"
       "herd"
       "hookmark"
+      "keka"
       "karabiner-elements"
       "keyboard-maestro"
       "kiibohd-configurator"
